@@ -1,5 +1,3 @@
-### Customer class code
-```java
 package domain;
 
 public class Customer {
@@ -31,7 +29,3 @@ public class Customer {
         this.total = total;
     }
 }
-```
-
-### Program
-![Image alt](https://github.com/ppc-ntu-khpi/java-1-un-know-n/blob/main/Solution/advanced.png)
